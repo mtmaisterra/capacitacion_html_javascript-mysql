@@ -1,0 +1,129 @@
+/*-----------------------------------------------------------------------------------------*/
+/*index.html*/
+/*-----------------------------------------------------------------------------------------*/
+body {
+    background-color: rgb(238, 166, 40);
+
+}
+
+body_index {
+    display: flex;
+}
+
+.navBar {
+    align-items: center;
+    display: flexbox;
+    height: 80px;
+    background-color: #e3f2fd;
+}
+
+
+.enlace-navBar {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 5%;
+    font-family: "Roboto";
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+    :hover {
+        font-family: "Times New Roman";
+        font-style: italic;
+        font-size: 40px;
+    }
+}
+
+.logo_navBar {
+    margin-left: 3%;
+    margin-right: 20%;
+    width: 5%;
+}
+
+.form-navBar-buscar {
+    text-align: center;
+    margin-left: 12%;
+    width: 400px;
+    text-decoration: none;
+}
+
+.btn-nav{
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.btn-navBar-buscar {
+    background-color: darkgrey;
+    font-family: "Roboto";
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.btn-navBar-registrar {
+    background-color: darkgrey;
+    font-family: "Roboto";
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.btn-navBar-ingresar {
+    background-color: darkgrey;
+    font-family: "Roboto";
+    text-decoration: none;
+    border-radius: 12px;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.titulo_H1_index {
+    margin-top: 10%;
+    font-size: 80px;
+    text-align: center;
+    font-family: "Pacifico";
+    margin-bottom: 10%;
+}
+
+.texto_H2_index {
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: justify;
+    font-size: 40px;
+    margin-bottom: 5%;
+}
+
+.btn-niveles {
+    width: 80px;
+    height: 120px;
+    border-radius: 20px;
+}
+
+.boton-imagen {
+    display: inline-block;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    width: 100px;
+    height: 200px;
+}
+
+.boton-imagen img {
+    width: 100%;
+    height: 100%;
+}
