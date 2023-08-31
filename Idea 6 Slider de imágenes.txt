@@ -1,0 +1,184 @@
+
+                        <img src="https://www.educ.ar/uploads/resources/images/1685x600_Banner_slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">La importancia del voto</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">Actividades para trabajar en cada nivel y reflexionar sobre las distintas formas de participación.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158873/argentina-en-internet">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/1685x600_SPHome.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Argentina en Internet</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">¿Qué es un dominio? ¿Cómo y por qué se registra? En esta colección, elaborada entre educ.ar y NIC Argentina, compartimos materiales para entender por qué el «.ar» es un elemento de soberanía digital.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158849/que-comience-el-juego">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/invasiones_banner-slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Aventura conversacional, que comience el juego</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">¿Qué es una narrativa lúdica? ¿Cómo incluir videojuegos en las propuestas educativas? Un especial de educ.ar para abordar estos interrogantes junto con la presentación de propuestas para desarrollar en el aula.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158858/malvinas-los-mapas-como-herramienta-para-pensar-la-soberania">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/1685x600_SliderMapas.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Malvinas: mapas para pensar la soberanía</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">Contenidos para pensar el territorio y la idea de nación haciendo especial énfasis en el mar y los territorios insulares. La importancia que esto tiene en la disputa de soberanía.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158767/lectura-y-escritura-en-la-cultura-digital-tendencias-y-educa">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/charlas-educar-slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="background-color:#ec5657;">Charlas Educar: Inteligencia Artificial</span></h3>
+                                                        <p class="slide-portada-bajada"><span style="background-color:#ec5657;">Una propuesta expansiva que recorre el desarrollo de la inteligencia artificial. Cómo está avanzando y qué posibilidades concretas de uso existen en el aula.</span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://malvinasenlaescuela.educ.ar/">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/malvinas_escuela_1685x600.png" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Malvinas en la Escuela</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">Una selección de producciones para abordar la enseñanza de Malvinas. Este material constituye un aporte para el trabajo de docentes y estudiantes de las escuelas de todo el país.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.instagram.com/p/Cs_VqIAuKFZ/">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/Slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo">Ideas para el aula: Planetas del sistema solar</h3>
+                                                        <p class="slide-portada-bajada">Actividades interactivas y dinámicas permiten explorar y comprender mejor las características de nuestro sistema planetario. Propuestas para trabajar este tema con tus estudiantes.</p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158705/propuesta-pedagogica-el-camino-de-las-sospechas">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/policial_1685x600.png" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Propuesta pedagógica «El camino de las sospechas»</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">Te invitamos a explorar el cuento policial&nbsp;«El crimen casi perfecto» de Roberto Arlt a partir de recursos en diferentes formatos y la realización de diversas actividades que integran&nbsp;lecturas anexas al cuento central, escrituras de relatos&nbsp;y la producción de un pódcast en equipo.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158487/conecta-tu-historia">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/conecta_tu_historia-slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="background-color:#323232;">Conectá tu historia</span></h3>
+                                                        <p class="slide-portada-bajada"><span style="background-color:#323232;">Especial sobre mujeres que cambiaron la historia en la Argentina del siglo XX.</span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.instagram.com/p/CrgFuGFO2GF/">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/arlt-slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo">Roberto Arlt. Darles voz a los tormentos de una época</h3>
+                                                        <p class="slide-portada-bajada">Compartimos con vos esta propuesta para trabajar en clase el cuento policial «El crimen casi perfecto».</p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home active" data-link-url="https://www.educ.ar/recursos/158690/orientacion-vocacional">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/ov_banner-slider.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Orientación vocacional</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">¿Cómo elegir una carrera? ¿Existe la vocación? ¿Qué buscás en un trabajo? ¿Cómo encarar una entrevista laboral? Compartimos videos, textos y juegos interactivos para ayudarte a pensar cómo armar tu proyecto luego de terminar el secundario.</span></span></p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158656/expedicion-antartica">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/antartida_banner-slider.png" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo">Expedición Antártica</h3>
+                                                        <p class="slide-portada-bajada">Conocé la Antártida mediante una historia que transcurre en un futuro distópico.</p>
+                        </div>
+                    </div>
+                                    <div class="clickable carousel-item home" data-link-url="https://www.educ.ar/recursos/158628/narrativas-negacionistas-las-escuelas-frente-a-los-discursos">
+
+                        <img src="https://www.educ.ar/uploads/resources/images/BANNER_SLIDER.jpg" class="" alt="..." id="img-slider">
+                        <div class="carousel-caption home">
+                                                            <h3 class="slide-portada-titulo"><span style="color:#000000;"><span style="background-color:#ffffff;">Las escuelas frente a los discursos de odio</span></span></h3>
+                                                        <p class="slide-portada-bajada"><span style="color:#000000;"><span style="background-color:#ffffff;">Entrevistas para pensar la circulación de las narrativas negacionistas en la sociedad</span></span><span style="color:#000000;"><span style="background-color:#ffffff;">.</span></span></p>
+                        </div>
+                    </div>
+                            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#slider2425" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#slider2425" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+</div>
+
+<style>
+.carousel {
+    position: relative;
+}
+.carousel.pointer-event {
+    touch-action: pan-y;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.carousel-inner::after {
+    display: block;
+    clear: both;
+    content: "";
+}
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform 0.6s ease-in-out;
+    overflow: hidden;
+}
+@media (prefers-reduced-motion: reduce) {
+    .carousel-item {
+        transition: none;
+    }
+}
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+    display: block;
+}
+.active.carousel-item-end,
+.carousel-item-next:not(.carousel-item-start) {
+    transform: translateX(100%);
+}
+.active.carousel-item-start,
+.carousel-item-prev:not(.carousel-item-end) {
+    transform: translateX(-100%);
+}
+.carousel-fade .carousel-item {
+    opacity: 0;
+    transition-property: opacity;
+    transform: none;
+}
+.carousel-fade .carousel-item-next.carousel-item-start,
+.carousel-fade .carousel-item-prev.carousel-item-end,
+.carousel-fade .carousel-item.active {
+    z-index: 1;
+    opacity: 1;
+}
+.carousel-fade .active.carousel-item-end,
+.carousel-fade .active.carousel-item-start {
+    z-index: 0;
+    opacity: 0;
+    transition: opacity 0s 0.6s;
+}
+
+</style>
+                
+                                                            </div>

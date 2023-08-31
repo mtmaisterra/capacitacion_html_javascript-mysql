@@ -1,0 +1,57 @@
+<div class="container-fluid px-0 px-md-5">
+
+        <div class="nav-logo-educar">
+            <a class="navbar-brand" href="https://www.educ.ar/">
+                <img src="/uploads/images/EDUCAR_Logo-nav.svg" alt="Educ.ar portal" title="Educ.ar portal">
+            </a>
+        </div>
+
+        <button class="btn btn-link d-block d-md-none searchBtn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"><i class="bi bi-search"></i></button>
+
+        <div class="search-container">
+            <form class="d-flex mx-auto mainSearch" id="search_form" method="GET" action="https://www.educ.ar/buscador">
+                <div class="input-group collapse" id="collapseExample">
+                    <span class="input-group-text" id="search-addon"></span>
+                                                                                    <input name="q" id="search-input" value="" type="text" class="form-control form-search" placeholder="Buscar..." aria-label="Buscar" aria-describedby="search-addon" autocomplete="false">
+                </div>
+            </form>
+        </div>
+                                    <button class="btn btn-ingresar btn-lg ml-auto" role="link" onclick="window.location='https://www.educ.ar/login'">
+                    <div class="icono-ingresar"></div>
+                    <span class="d-none d-md-block"></span></button>
+                                
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarEducar" aria-controls="navbarEducar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-md-center" id="navbarEducar">
+                            <ul class="navbar-nav">
+                    <div class="nav-logo-educar-mobile" data-bs-toggle="collapse" data-bs-target="#navbarEducar" aria-expanded="true"></div>
+                    
+                                                                                                <li class="nav-item">
+                                <a class="nav-link navLinkDesktop js-trackingAction" data-color="#009fe3" data-eventcategory="educar" href="https://www.educ.ar/" data-eventaction="button" data-eventlabel="Inicio" style="color: rgb(96, 96, 96);">
+                                    Inicio
+                                </a>
+                            </li>
+                                                                                                                        <li class="nav-item">
+                                <a class="nav-link navLinkDesktop js-trackingAction" data-color="#0785c0" data-eventcategory="educar" href="https://www.educ.ar/conectar-igualdad" data-eventaction="button" data-eventlabel="Conectar Igualdad" style="color: rgb(96, 96, 96);">
+                                    Conectar Igualdad
+                                </a>
+                            </li>
+                                                                                                                        <li class="nav-item">
+                                <a class="nav-link navLinkDesktop js-trackingAction" data-color="#7cd4fa" data-eventcategory="educar" href="https://www.educ.ar/40democracia" data-eventaction="button" data-eventlabel="40 Años de Democracia" style="color: rgb(96, 96, 96);">
+                                    40 Años de Democracia
+                                </a>
+                            </li>
+                                                                                                                        <li class="nav-item">
+                                <a class="nav-link navLinkDesktop js-trackingAction" data-color="#fb91b5" data-eventcategory="educar" href="https://www.educ.ar/recursos-especiales" data-eventaction="button" data-eventlabel="Recursos Especiales" style="color: rgb(96, 96, 96);">
+                                    Recursos Especiales
+                                </a>
+                            </li>
+                                                                                                                        <li class="nav-item">
+                                <a class="nav-link navLinkDesktop js-trackingAction" data-color="#3eb69f" data-eventcategory="educar" href="https://www.educ.ar/noticias/novedades" data-eventaction="button" data-eventlabel="Noticias" style="color: rgb(96, 96, 96);">
+                                    Noticias
+                                </a>
+                            </li>
+                                                            </ul>
+                    </div>
+    </div>

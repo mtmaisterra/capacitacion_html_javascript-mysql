@@ -1,0 +1,269 @@
+<table style="border:5px solid #cccccc;" border="5" cellpadding="5">
+
+  <tbody><tr>
+   <td>
+      <a href="/idbis/dm" target="_blank">Data Mining</a>
+      <br>Grupo de investigación IDBIS
+   </td>
+  </tr>  
+
+  <tr>
+   <td>
+      <a href="/decsai/deep-learning" target="_blank">Deep Learning</a>
+      <br>Curso de redes neuronales artificiales
+   </td>
+  </tr>  
+
+
+  <tr>
+   <th bgcolor="#cccccc">
+      Cursos académicos 2017..2020
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/computational-intelligence" target="_blank">Inteligencia Computacional</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/project-management" target="_blank">Planificación y Gestión de Proyectos Informáticos</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/information-systems" target="_blank">Ingeniería de Sistemas de Información</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/iaio/" target="_blank">Inteligencia Artificial</a>
+      <br>Doble Grado Informática-Matemáticas
+   </td>
+  </tr>    
+
+
+  <tr>
+   <th bgcolor="#cccccc">
+      Curso académico 2016/2017
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/computational-intelligence" target="_blank">Inteligencia Computacional</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/project-management" target="_blank">Planificación y Gestión de Proyectos Informáticos</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/information-systems" target="_blank">Ingeniería de Sistemas de Información</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/computation/" target="_blank">Modelos avanzados de computación</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>    
+  <tr>
+   <td>
+      <a href="/decsai/iaio/" target="_blank">Inteligencia Artificial</a>
+      <br>Doble Grado Informática-Matemáticas
+   </td>
+  </tr>    
+
+
+  
+  <tr>
+   <th bgcolor="#cccccc">
+      Curso académico 2015/2016
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/idbis/dm" target="_blank">Data Mining</a>
+      <br>Máster en Data Science
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/project-management" target="_blank">Planificación y Gestión de Proyectos Informáticos</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/computational-intelligence" target="_blank">Inteligencia Computacional</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/iaio/" target="_blank">Inteligencia Artificial en Investigación Operativa</a>
+      <br>Grado en Estadística
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/iaio/" target="_blank">Inteligencia Artificial</a>
+      <br>Doble Grado Informática-Matemáticas
+   </td>
+  </tr>    
+  <tr>
+   <td>
+      <a href="/decsai/games/" target="_blank">Programación Lúdica</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/information-systems" target="_blank">Ingeniería de Sistemas de Información</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>
+  
+  <tr>
+   <th bgcolor="#cccccc">
+      Curso académico 2014/2015
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/idbis/dm" target="_blank">Data Mining</a>
+      <br>Máster en Data Science
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="https://decsai.ugr.es/" target="_blank">Dispositivos móviles</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/computational-intelligence" target="_blank">Inteligencia Computacional</a>
+      <br>Máster en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/iaio/" target="_blank">Inteligencia Artificial en Investigación Operativa</a>
+      <br>Grado en Estadística
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/games/" target="_blank">Programación Lúdica</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="https://decsai.ugr.es/" target="_blank">Diseño y desarrollo de sistemas de información</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/computation/" target="_blank">Modelos avanzados de computación</a>
+      <br>Doble Grado Informática-Matemáticas
+   </td>
+  </tr>    
+  <tr>
+   <th bgcolor="#cccccc">
+      Curso académico 2013/2014
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/idbis/dm" target="_blank">Data Mining</a>
+      <br>Máster en Soft Computing y Sistemas Inteligentes
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/iaio/" target="_blank">Inteligencia Artificial en Investigación Operativa</a>
+      <br>Grado en Estadística
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="/decsai/games/" target="_blank">Programación Lúdica</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="https://decsai.ugr.es/" target="_blank">Modelos de Computación</a>
+      <br>Grado en Ingeniería Informática
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="https://decsai.ugr.es/" target="_blank">Algorítmica</a>
+      <br>Doble Grado Informática-Matemáticas
+   </td>
+  </tr>  
+  <tr>
+   <td>
+      <a href="http://cvg.ugr.es/docencia/course/view.php?id=13" target="_blank">Estructuras de Datos</a>
+      <br>Doble Grado Informática-Matemáticas
+   </td>
+  </tr>  
+  <tr>
+   <th bgcolor="#cccccc">
+      En extinción...
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/algorithms">Teoría de Algoritmos</a>
+      <br>I.T. Informática de Gestión
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/intelligent">Sistemas Inteligentes de Gestión</a>
+      <br>I.T. Informática de Gestión
+   </td>
+  </tr>  
+  <tr>
+   <th bgcolor="#cccccc">
+      Cursos anteriores
+   </th>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/java">Fundamentos de Programación</a>
+      <br>Ingeniería de Telecomunicación
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/c">Adquisición y Tratamiento de Datos I</a>
+      <br>Licenciatura en Ciencias y Técnicas Estadísticas
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/decsai/internet">Adquisición y Tratamiento de Datos II</a>
+      <br>Licenciatura en Ciencias y Técnicas Estadísticas
+   </td>
+  </tr>
+  <tr>
+   <td>
+      <a href="/idbis/db">Bases de Datos II</a>
+      <br>Ingeniería Informática
+   </td>
+  </tr>
+  </tbody></table>

@@ -1,0 +1,17 @@
+<div style="position: absolute; left: 2%; top: 10px; width:125px; bottom:40px; background-color:#0099cc; text-align: center;"> 
+    <p>
+    <img src="image/icon/home.png" height="64" width="64" border="0" alt="Página principal"><br>Página principal
+    </p>
+	<p>
+    <a class="menu" href="courses.html"><img src="image/icon/courses.png" height="64" width="64" border="0" alt="Cursos"><br>Cursos</a>
+    </p>
+    <p>
+    <a class="menu" href="software/index.html"><img src="image/icon/software.png" height="64" width="64" border="0" alt="Software"><br>Software</a>
+	</p>
+    <p>
+    <a class="menu" href="links.html"><img src="image/icon/links.png" height="64" width="64" border="0" alt="Enlaces de interés"><br>Enlaces</a>
+	</p>
+    <p>
+    <a class="menu" href="search.html"><img src="image/icon/search.png" height="64" width="64" border="0" alt="Buscador local"><br>Buscador</a>
+	</p>
+</div>

@@ -1,0 +1,1 @@
+<img style="float:right" src="/cgi-bin/counter/counter.exe?link=links&amp;style=odometer&amp;width=5" height="20" alt="Contador de visitas">

@@ -1,100 +1,116 @@
 /*-----------------------------------------------------------------------------------------*/
-/*index.html*/
+                              /*index.html*/
 /*-----------------------------------------------------------------------------------------*/
 body {
-    background-color: rgb(238, 166, 40);
-
+    background: linear-gradient(45deg, #FFA500, #FF6347);
 }
-
-body_index {
+index {
     display: flex;
+    margin: auto;
 }
-
-.navBar {
+.contenedor{
+    /*background-color: #e3f2fd;*/
     align-items: center;
-    display: flexbox;
-    height: 80px;
-    background-color: #e3f2fd;
+    display: block;
+    height: 10%;   
+    text-decoration: none;
 }
-
-
-.enlace-navBar {
+.logo {
     margin-left: 5%;
     margin-right: 5%;
+    width: 120px;
+    height: 80px;
+}
+.label{
+    margin-left: 4%;
+    margin-right: 8%;
     width: 5%;
     font-family: "Roboto";
+    font-size: 30px;
+    text-decoration: none;
+    color: black;    
+}
+.input{
+    background-color: rgb(204, 202, 202);
+    font-family: "Roboto";
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.btn-buscar{
+    background-color: darkgrey;
+    font-family: "Roboto";
+    text-decoration: none;
+    text-align: center;
+    border-radius: 12px;
     font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+.enlace {
+    margin-left: 4%;
+    margin-right: 8%;
+    width: 5%;
+    font-family: "Roboto";
+    font-size: 30px;
     text-decoration: none;
     color: black;
-
     :hover {
-        font-family: "Times New Roman";
-        font-style: italic;
-        font-size: 40px;
+        font-family: "DancingScript";
+        font-style: bold italic;
+        color: blue;
     }
 }
 
-.logo_navBar {
-    margin-left: 3%;
-    margin-right: 20%;
-    width: 5%;
-}
-
-.form-navBar-buscar {
+.btn link{
+    background-color: darkgrey;
+    font-family: "Roboto";
+    text-decoration: none;
     text-align: center;
-    margin-left: 12%;
-    width: 400px;
-    text-decoration: none;
-}
-
-.btn-nav{
-    font-family: "Roboto";
-    font-size: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
-}
-
-.btn-navBar-buscar {
-    background-color: darkgrey;
-    font-family: "Roboto";
-    text-decoration: none;
     border-radius: 12px;
     font-size: 20px;
     margin-left: 5%;
-    margin-right: 5%;
-
+    margin-right: 5%; 
 }
 
-.btn-navBar-registrar {
+.btn-nav {
+    font-family: "Roboto";
+    text-align: center;
+    font-style: bold;
+    font-size: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.contenedor btn-buscar{
     background-color: darkgrey;
     font-family: "Roboto";
     text-decoration: none;
+    text-align: center;
     border-radius: 12px;
     font-size: 20px;
     margin-left: 5%;
     margin-right: 5%;
 }
-
-
-.btn-navBar-ingresar {
+.btn {
     background-color: darkgrey;
     font-family: "Roboto";
     text-decoration: none;
+    text-align: center;
     border-radius: 12px;
     font-size: 20px;
     margin-left: 5%;
     margin-right: 5%;
 }
-
-.titulo_H1_index {
+.titulo1 {
     margin-top: 10%;
     font-size: 80px;
     text-align: center;
     font-family: "Pacifico";
     margin-bottom: 10%;
 }
-
-.texto_H2_index {
+.titulo2 {
     margin-left: 3%;
     margin-right: 3%;
     text-align: justify;
@@ -102,28 +118,37 @@ body_index {
     margin-bottom: 5%;
 }
 
+/*----------------------------------------------------------------------*/
+                              /*Cursos*/
+/*----------------------------------------------------------------------*/
+
 .btn-niveles {
-    width: 80px;
-    height: 120px;
+    width: 200px;
+    height: 250px;
     border-radius: 20px;
 }
-
 .boton-imagen {
     display: inline-block;
     padding: 10px;
-    background-color: #3498db;
+    background-color: #FF6347;
     color: #fff;
-    border: none;
+    border: 1px solid black;
     border-radius: 20px;
     cursor: pointer;
     text-align: center;
     text-decoration: none;
     overflow: hidden;
-    width: 100px;
-    height: 200px;
+    width: 200px;
+    height: 250px;
 }
-
 .boton-imagen img {
     width: 100%;
-    height: 100%;
+    height: 80%;
+}
+.boton-imagen p {
+    margin-bottom: 5px;
+    font-size: 10px;
+    color: black;
+    font-family: "Roboto";
+    text-align: center;
 }
