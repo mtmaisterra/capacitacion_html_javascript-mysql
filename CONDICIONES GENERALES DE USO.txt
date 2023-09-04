@@ -1,0 +1,411 @@
+CONDICIONES GENERALES DE USO
+        Estas condiciones generales (en adelante, las «condiciones generales») regulan el uso del sitio web  "<!--nombre del sitio web-->" en internet (en adelante referido 
+        como «el sitio web»), que es puesto a disposición de los usuarios que abonen la tarifa.        
+        La sola utilización del sitio web atribuye la condición de usuario (en adelante, el «usuario») y expresa que el usuario acepta 
+        plenamente y sin reservas todas y cada una de las condiciones generales en la versión publicada por "<!--nombre del sitio web-->" 
+        en el momento mismo en que el usuario acceda al mismo. En consecuencia, el usuario debe leer atentamente las condiciones generales 
+        en cada una de las ocasiones en que se proponga utilizar el sitio.        
+        La utilización de ciertos servicios ofrecidos a los usuarios a través de  "<!--nombre del sitio web-->" se encuentra sometida a
+         condiciones particulares propias (en adelante, las «condiciones particulares») que, según los casos, sustituyen, completan y/o 
+         modifican las condiciones generales. Con anterioridad a la utilización de dichos servicios, por tanto, el usuario también ha de
+          leer atentamente las correspondientes condiciones particulares.
+        
+        Todas las referencias al usuario deberán ser interpretadas como abarcativas del «usuario registrado» (tal como se lo define más adelante),
+         a menos que expresamente se disponga lo contrario.
+        
+        1. Acceso al sitio web
+        La prestación del servicio del sitio por parte de  "<!--nombre del sitio web-->" es de carácter privado para los usuarios. No obstante ello,
+        la utilización de algunos servicios solo puede hacerse como usuario registrado y conforme se establece expresamente en sus correspondientes
+        condiciones particulares.
+        
+        2. Informaciones expuestas
+        Algunos datos e informaciones que son expuestos en el sitio son suministrados no gubernamentales.  "<!--nombre del sitio web-->" no garantiza
+         ni se responsabiliza respecto de la veracidad de los
+         datos e informaciones suministrados o que suministren las entidades suministradoras a  "<!--nombre del sitio web-->", por lo que deslinda toda responsabilidad
+          al respecto.
+        
+        Durante las actividades regulares de  "<!--nombre del sitio web-->", no está permitido el uso de ningún dispositivo, software u otro medio
+         tendiente a interferir tanto en las actividades y operatoria de  "<!--nombre del sitio web-->" como en sus bases de datos. Dichas acciones
+          son penalmente punibles de acuerdo con la legislación vigente en la República Argentina.
+        
+        3. Registración
+        Para ser un usuario de  "<!--nombre del sitio web-->" es obligatorio completar el formulario de registración adjunto.
+         Sin perjuicio de ello, en caso de que el usuario elija o deba registrarse para utilizar algún servicio («usuario registrado»), 
+         deberá completar el formulario con su información personal de manera veraz, exacta y precisa («datos de registro»). 
+         Salvo en los campos en que se indique lo contrario, las respuestas a las preguntas sobre datos de registro son voluntarias, sin que la 
+         falta de contestación implique una merma en la calidad o cantidad de los servicios correspondientes, a menos que se indique otra cosa. 
+         El usuario registrado deberá actualizar los datos de registro conforme resulte necesario.
+        
+        El usuario registrado accederá a sus datos de registro mediante el ingreso de su nombre de usuario, que será un código («nombre de usuario»)
+         compuesto por letras y números de entre 4 y 15 caracteres elegido por el usuario registrado y una clave de seguridad personal elegida por 
+         el usuario registrado (la «clave»), que conjuntamente con el nombre de usuario y los datos de registro conforman la «cuenta».
+        
+        El usuario registrado se obliga a mantener la confidencialidad de su clave. El usuario registrado será responsable por todos los cambios 
+        efectuados en su cuenta, pues el acceso a esta está restringido al ingreso y uso de su clave, de conocimiento exclusivo del usuario 
+        registrado.
+        
+         "<!--nombre del sitio web-->" no será responsable por los daños ocasionados o que pudiesen ocasionarse por el mal e indebido uso por parte
+          de terceros de las claves de los usuarios registrados.
+        
+        El usuario registrado se compromete a notificar a Educ.ar en forma inmediata y por medio fehaciente cualquier uso no autorizado de su clave.
+        
+        Educ.ar se reserva el derecho de rechazar cualquier solicitud de registro o de cancelar una registración previamente aceptada.
+        
+        4. Modificaciones del acuerdo
+        A su criterio,  "<!--nombre del sitio web-->" podrá modificar en cualquier momento los términos y condiciones del sitio y notificará los 
+        cambios al usuario registrado publicando una versión actualizada de dichos términos y condiciones en este sitio web. Dentro de los 
+        10 (diez) días siguientes a la publicación de las modificaciones introducidas, el usuario registrado deberá comunicar por correo electrónico
+         a  "<!--direccion de correo electrónico-->" si no las acepta; en ese caso,  "<!--nombre del sitio web-->" quedará liberado de prestar al 
+         usuario registrado sus servicios. Vencido este plazo, se considerará que el usuario registrado acepta los nuevos términos y condiciones,
+        siéndole plenamente aplicables, y el contrato continuará vinculando a ambas partes.
+        
+        5. Contenidos. Propiedad intelectual
+        Queda entendido y aceptado que todos los contenidos o los derechos sobre aquellos que se encuentren alojados en este sitio pertenecen
+         exclusivamente a  "<!--nombre del sitio web-->".
+        
+        A los efectos legales, se consideran protegidos bajo las leyes de propiedad intelectual las obras científicas, literarias y artísticas;
+         los escritos de toda naturaleza y extensión, entre ellos los programas de computación (fuente y objeto); las compilaciones de datos o 
+         de otros materiales; las obras dramáticas, composiciones musicales, dramático-musicales; las cinematográficas, coreográficas y 
+         pantomímicas; las obras de dibujo, pintura, escultura, arquitectura; modelos y obras de arte o ciencia; los impresos, planos y mapas, 
+         fotografías, grabados y fonogramas; toda producción científica, literaria, artística o didáctica sea cual fuere el procedimiento de 
+         reproducción (en adelante, los «contenidos»).
+        
+        6. Uso de los contenidos
+        El usuario se obliga a usar los contenidos de forma diligente, correcta y lícita y, en particular, se compromete a abstenerse de 
+        utilizar los contenidos con fines o efectos contrarios a la ley, a la moral y a las buenas costumbres o al orden público.
+        
+        Educ.ar no será responsable por el uso indebido que hagan los usuarios del contenido del portal. El usuario es consciente y acepta 
+        voluntariamente que el uso que hace del portal y de sus contenidos es siempre de su única y exclusiva responsabilidad.
+        
+        Educ.ar autoriza el libre uso y disposición de los contenidos del portal, su edición, modificación y/o cualquier uso derivado; excepto 
+        para cualquier uso comercial de estos. En los casos en que el titular del derecho sobre la obra autorice en particular alguna otra 
+        disposición sobre esta ya sea sobre su publicación, ejecución, representación, exposición, enajenación, adaptación o autorización de 
+        reproducción en cualquier forma, se aclarará el alcance de esa licencia y para esa obra en particular.
+        
+        7. Condiciones para la disposición de los contenidos. Principios y pautas. Cesión de derechos de propiedad intelectual
+        Mediante la aceptación de estos términos de uso, el usuario cede a Educ.ar gratuitamente una licencia de uso no exclusiva, con efecto 
+        en el territorio de todo el mundo, transferible y con facultad de sublicenciar los derechos de reproducción, distribución, comunicación 
+        pública y transformación que tenga sobre las obras que suba o que genere utilizando este servicio y ello con el único alcance y objeto 
+        de que la obra pueda ser alojada y difundida mediante el portal en forma gratuita.
+        
+        El usuario titular de los derechos sobre las obras subidas al sitio web continuará siendo su titular, por lo que la cesión lo es a los 
+        únicos efectos de que  "<!--nombre del sitio web-->" pueda prestar los servicios de su portal.
+        
+        Los contenidos ingresados por los usuarios podrán ser accesibles, descargados, compartidos y consultados por cualquier usuario del
+         sitio web. Por ello, el usuario cede gratuitamente al resto de usuarios del servicio la posibilidad de realizar y difundir por 
+         cualquier medio y en el territorio de todo el mundo obras derivadas y/o traducciones de sus documentos y de su edición, gráficas, 
+         tablas, hojas de cálculo, presentaciones, estadísticas, bases de datos, dibujos, fotografías, videos o cualquier obra de su propiedad 
+         que pudieran incorporar de forma accesoria o principal en el portal, todo ello sin límite temporal alguno más allá de los que pudieran
+          estar legalmente previstos.
+        
+        En el caso de que la obra subida sea de un tercero, pero divulgada con una licencia que permite su libre difusión, el usuario se 
+        compromete y se responsabiliza de que tal licencia permite efectivamente el tipo de uso que se hace de la obra a través del servicio 
+        prestado por Educ.ar, deslindando todo tipo de responsabilidad para Educ.ar.
+        
+        La cesión de derechos a  "<!--nombre del sitio web-->" de los contenidos subidos al servicio durará mientras  "<!--nombre del sitio web-->"
+         los tenga publicados o hasta que cancele su cuenta, con excepción de aquellos contenidos que han sido compartidos con terceros.
+        
+        Tras la eliminación del contenido o la cancelación de la cuenta por el usuario o cualquier otra circunstancia, este no será accesible para 
+        el resto si bien  "<!--nombre del sitio web-->" podrá tener copias de seguridad del sitio que eventualmente podrían haberse realizado 
+        cuando el contenido fue publicado.
+        
+        8. Cesión de derechos de imagen
+        El usuario puede subir una fotografía o video en que aparezca representado. Mediante la aceptación de estas condiciones de uso, el 
+        usuario cede a  "<!--nombre del sitio web-->" en forma no exclusiva, con efectos para todo el mundo, de forma gratuita y transferible 
+        con facultad para trasmitir, publicar, copiar, sublicenciar, los derechos sobre la imagen subida al sitio web, así como los derechos de 
+        propiedad intelectual de reproducción, distribución, comunicación pública y transformación de esta.
+        
+        La cesión de derechos de propiedad intelectual e imagen durará mientras el usuario tenga la fotografía o video publicados en el sitio web y 
+        tendrá como único objeto que estos puedan mostrarse al resto de usuarios del sitio.
+        
+        9. Responsabilidad por uso indebido del servicio e infracción de derechos
+        El usuario reconoce que Educ.ar no es responsable de la posible ilicitud o lesión de derechos de las actividades realizadas por los usuarios.
+         El usuario se compromete a utilizar el servicio conforme a legislación vigente y, a título enunciativo, se abstendrá de:
+        
+        publicar contenido ofensivo, injurioso, calumnioso, racista, discriminatorio o que de cualquier otro modo pueda lesionar derechos de terceros;
+        publicar datos, imágenes personales o información privada de terceros;
+        crear perfiles falsos suplantando la personalidad de terceros;
+        utilizar el servicio para realizar comunicaciones comerciales no autorizadas o recopilar datos de otros usuarios;
+        subir al servicio obras intelectuales de terceros sin su autorización;
+        subir al servicio archivos que contengan virus o que de cualquier modo puedan dañar el equipo de otro usuario o su software;
+        publicar contenido que pudiera vulnerar el derecho al honor, a la intimidad o a la propia imagen de terceros.
+        Educ.ar se reserva el derecho a retirar los contenidos difundidos sin autorización o cuya ilicitud le conste o de las que tenga fundadas sospechas.
+        
+        Educ.ar se reserva así mismo el derecho a cancelar y eliminar la cuenta del usuario que realice actividades contrarias a la ley o a estos términos de uso.
+        
+        10. Publicidad
+        El usuario acepta que la publicidad de terceros que aparezca en la pantalla es parte inseparable del sitio de Educ.ar.
+        
+        Educ.ar no interviene ni garantiza la veracidad de la publicidad de terceros y no será responsable por la correspondencia, contratos o actos que el usuario celebre con terceros.
+        
+        11. No licencia
+        El acceso de los usuarios a los contenidos de Educ.ar no se interpretará, salvo autorización por escrito, como una concesión de licencia o concesión de uso y explotación de derechos de propiedad intelectual de Educ.ar o de cualquier tercero.
+        
+        12. Calidad
+        Educ.ar no controla ni garantiza la ausencia de virus ni de otros elementos en los contenidos que puedan producir alteraciones en su sistema informático (software y hardware) o en los documentos electrónicos, archivos y directorios de archivos almacenados en su sistema informático. Por lo tanto, Educ.ar no tendrá responsabilidad alguna por los daños y perjuicios de cualquier naturaleza que puedan ocasionarse por esos motivos.
+        
+        13. Alcance de los contenidos
+        Educ.ar no garantiza la licitud, fiabilidad y utilidad de los contenidos, ni tampoco su veracidad, exactitud, exhaustividad, titularidad y actualidad.
+        
+        Al solo efecto ejemplificativo, sin que ello se entienda ni enumerativo ni exhaustivo, Educ.ar no se responsabiliza por los daños y perjuicios de alguna naturaleza que puedan deberse a la transmisión, difusión, almacenamiento, puesta a disposición, recepción, obtención o acceso a los contenidos y, en particular, aunque no de modo exclusivo, por los daños y perjuicios que puedan deberse
+        
+        al incumplimiento de la ley, la moral y las buenas costumbres o el orden público;
+        a la infracción de los derechos de propiedad intelectual e industrial, de los secretos empresariales, de compromisos contractuales de cualquier clase, de los derechos al honor, a la intimidad personal y familiar y a la imagen de las personas, de los derechos de propiedad y de toda otra naturaleza pertenecientes a un tercero;
+        a la realización de actos de competencia desleal y publicidad ilícita;
+        a la falta de veracidad, exactitud, exhaustividad, pertinencia y/o actualidad de los contenidos;
+        a la inadecuación para cualquier clase de propósito y a la defraudación de las expectativas generadas por los contenidos;
+        al incumplimiento, retraso en el cumplimiento, cumplimiento defectuoso o terminación por cualquier causa de las obligaciones contraídas por terceros y contratos realizados con terceros a través de los contenidos o con motivo del acceso a estos;
+        a los vicios y defectos de toda clase de los contenidos.
+        14. Denegación y retirada del acceso al portal y/o a los servicios
+        Educ.ar se reserva el derecho a denegar o retirar el acceso a su sitio, en cualquier momento y sin necesidad de preaviso, a aquellos usuarios que incumplan estas condiciones generales o las condiciones particulares que resulten de aplicación, sin que ello implique ningún derecho u obligación de Educ.ar sobre el material denegado o retirado.
+        
+        15. Duración y terminación
+        La prestación del servicio de Educ.ar tiene, en principio, una duración indefinida. Educ.ar, no obstante, está autorizada para dar por terminada o suspender la prestación del servicio del sitio en cualquier momento, sin perjuicio de lo que se hubiere dispuesto al respecto en las correspondientes condiciones particulares. Cuando ello sea razonablemente posible, Educ.ar advertirá previamente la terminación o suspensión de la prestación del servicio del sitio.
+        
+        16. Condiciones particulares del servicio de correo electrónico
+        La provisión del correo electrónico en Educ.ar es gratuita y exige realizar un proceso de registración.
+        
+        El usuario se compromete a usar sus claves de acceso (nombre de usuario y contraseña) de acuerdo con las siguientes condiciones:
+        
+        La contraseña puede ser elegida por el usuario y no puede, de ningún modo, infringir los derechos de propiedad industrial e intelectual ni atentar al honor, ni a la propia imagen de terceros, ni las presentes condiciones de uso.
+        Las claves de acceso son para uso exclusivo del usuario titular de estas y su custodia y correcta utilización son su exclusiva responsabilidad.
+        El incumplimiento de estas condiciones dará lugar a la cancelación de la cuenta de correo, sin perjuicio de otras acciones que pudieran corresponder.
+        
+        El correo electrónico es una herramienta para el intercambio de información entre personas, no un medio de difusión masiva e indiscriminada de información.
+        
+        Por ello, queda prohibido enviar, almacenar o distribuir mensajes cuyo contenido atente contra los derechos reconocidos en las leyes. Queda prohibido el envío de correo no deseado. Queda prohibido el envío de comunicaciones electrónicas con finalidad comercial a una pluralidad de receptores que no las hayan solicitado (spam). Queda prohibido el envío de mensajes de correo electrónico cuyo único propósito sea sobrecargar, paralizar o, de cualquier otro modo, perjudicar el normal uso de este servicio o los equipos informáticos de otros usuarios de internet.
+        
+        La confidencialidad de contenidos y contraseñas a las que se refiere este apartado no excluye la posibilidad de que, en estricto cumplimiento de los pertinentes requerimientos judiciales o, en su caso, ante autoridad legalmente autorizada, deban revelarse los contenidos de los mensajes así como la identidad de los autores.
+        
+        Educ.ar no garantiza privacidad absoluta en la utilización del correo electrónico. El usuario debe asegurar la máxima confidencialidad y cuidado en la transmisión de sus mensajes electrónicos.
+        
+        Educ.ar queda eximida de cualquier responsabilidad por los daños y perjuicios que pudieran derivarse del acceso y/o eventual manipulación de los mensajes electrónicos gestionados mediante este servicio.
+        
+        Educ.ar queda eximida de cualquier responsabilidad derivada del mal funcionamiento del servicio que tenga su origen en una circunstancia accidental, fuerza mayor, trabajos necesarios de mantenimiento o cualquier otra causa no imputable a ella.
+        
+        La utilización de este servicio está sometida a la exclusiva responsabilidad del usuario, quien conoce esta circunstancia y la acepta.
+        
+        Educ.ar no ejerce control alguno sobre dicha utilización ni sobre el contenido de los mensajes enviados por los usuarios.
+        
+        El usuario deberá actuar siempre con la debida diligencia, lo que supone, entre otras cosas, tomar todas las precauciones razonables para realizar el envío, la recepción y el almacenamiento de mensajes de correo electrónico. Educ.ar no se responsabiliza por el contenido recibido en las casillas de correo, por los potenciales virus, mensajes publicitarios no solicitados o amenazas que hayan sido enviadas al usuario, siendo responsabilidad de este el protegerse adecuadamente.
+        
+        Cada usuario registrado posee un espacio de almacenamiento máximo permitido de 20 MB. Una vez superado dicho valor, la cuenta de correo dejará de recibir mensajes.
+        
+        Educ.ar se reserva el derecho de eliminar los mensajes y/o dar de baja toda cuenta de correo electrónico que no ha sido utilizada por el usuario en un período de 6 (seis) meses.
+        
+        17. Ley aplicable y jurisdicción
+        Estas condiciones generales se rigen por la ley de la República Argentina. Educ.ar y el usuario, con renuncia expresa a cualquier otro fuero o competencia, se someten a la de Tribunales Nacionales Federales de la Ciudad de Autónoma de Buenos Aires.
+        
+        PRIVACIDAD Y CONDICIONES DE USO
+        1. Privacidad de la información
+        Educ.ar está comprometida con la protección de la privacidad de los usuarios de sus productos y servicios. Queremos contribuir a través de internet a crear un ambiente confiable y seguro para los usuarios.
+        
+        Aun cuando la política de privacidad se aplica al portal y a todos los demás servicios vía internet relacionados de Educ.ar, únicamente haremos en adelante referencia a «Educ.ar» en el presente documento para facilitar su lectura.
+        
+        El propósito de la política de privacidad de Educ.ar es informarle, en su carácter de visitante y/o usuario, de las diferentes clases de información que es posible obtener cuando nos visita en Educ.ar, el uso que podríamos darle, las opciones que tiene con respecto al uso que Educ.ar pudiera hacer con su información y el derecho a exigir corrección de la información que nos envía.
+        
+        Es importante mencionar que esta política solo se aplica a Educ.ar, sus sociedades controlantes, controladas (en adelante, las «empresas vinculadas al portal») y no a otras compañías u organizaciones o sitios conectados a internet con los que tengamos conexiones, linking, o hagamos referencia en directorios de sitios para visitar.
+        
+        2. Recolección y tratamiento de los datos personales
+        La recolección y tratamiento automatizado de los datos personales tiene como única finalidad el buen y fluido mantenimiento de la relación establecida entre el usuario y Educ.ar; la gestión, administración, prestación, ampliación y mejora de los servicios en los que el usuario decida suscribirse y darse de baja; la adecuación de dichos servicios a las preferencias y gustos de los usuarios; el estudio de la utilización de los servicios por parte de los usuarios; el diseño de nuevos servicios relacionados con dichos servicios; el envío de actualizaciones de los servicios; el envío, por medios tradicionales y electrónicos, de información técnica, operativa y comercial acerca de productos y servicios ofrecidos por Educ.ar a través de su portal.
+        
+        La finalidad de la recolección y tratamiento automatizado de los datos personales incluye igualmente el envío de formularios de encuestas, que el usuario no queda obligado a contestar. Educ.ar no utilizará los datos para otro propósito que los enunciados en las presentes condiciones ni los compartirá con terceros ajenos al portal.
+        
+        Educ.ar se compromete a no revelar, compartir ni dar ningún permiso para la utilización de los datos o información que se obtenga de parte de los usuarios en el uso del portal. Se garantiza que los datos aportados por los usuarios de la manera descrita solamente serán utilizados por Educ.ar para fines relacionados con la prestación del servicio objeto del portal.
+        
+        Toda la información que recogemos de nuestros usuarios se utilizará exclusivamente con los propósitos y objetivos del portal.
+        
+        3. Cesión de datos
+        En particular, Educ.ar solamente podrá ceder los datos de los usuarios a sus empresas vinculadas y a las entidades dependientes y/o bajo el control del Ministerio de Educación de la Nación.
+        
+        Información general acerca de los visitantes de Educ.ar
+        
+        Nuestro servicio automáticamente recaba cierta información general tal como la cantidad y frecuencia de los visitantes a Educ.ar y sus distintas áreas, de manera similar a los ratings televisivos que indican a las televisoras cuántas personas sintonizaron cierto programa. Únicamente utilizamos dicha información como estadística. Este tipo de información nos ayuda a determinar cuántos de nuestros usuarios acceden a un área determinada y qué partes del portal utilizan, a fin de que podamos mejorarlo y asegurarnos de que sea lo más atractivo posible.
+        
+        En el curso de nuestras operaciones, proporcionamos información estadística («ratings») a las empresas vinculadas y a las instituciones dependientes y/o bajo en control del Ministerio de Educación de la Nación que permite observar cómo utilizan nuestros usuarios el portal. Llevamos a cabo estas prácticas con el único fin de que las empresas vinculadas y las instituciones dependientes y/o bajo en control del Ministerio de Educación de la Nación puedan observar cuántas personas utilizan las distintas secciones de nuestro portal, a fin de poder brindarles la mejor experiencia posible y cumplir mejor el objeto de Educ.ar.
+        
+        4. Uso de cookies
+        Educ.ar utiliza una tecnología «cookies». Una cookie es un pequeño volumen de datos que un servidor web envía al navegador del usuario (en adelante «cookies»). La cookie se almacena en el disco rígido de su equipo y se instala durante el proceso de inscripción o de ingreso y se modifica al dejar nuestros servicios. Las cookies utilizadas no pueden leer datos de su disco rígido ni leer los archivos cookies creados por otros proveedores. El usuario tiene la posibilidad de configurar su navegador para ser avisado en pantalla de la recepción de cookies y para impedir la instalación de cookies en su disco rígido. Por favor, consulte las instrucciones y manuales de su navegador para ampliar esta información.
+        
+        Educ.ar utiliza cookies cuando un usuario navega por los sitios y páginas web del portal. La cookie nos indica cómo, cuándo y por cuántas personas son visitadas nuestras páginas.
+        
+        Las cookies de Educ.ar no recaban información personal de los usuarios que nos pudiera indicar quién es, su nombre de usuario o correo electrónico. Nuestras cookies se asocian únicamente con un usuario anónimo y su computadora, y no proporcionan por sí el nombre y apellidos del usuario.
+        
+        Gracias a las cookies, resulta posible que Educ.ar reconozca a los usuarios registrados después de que estos se hayan registrado por primera vez, sin que tengan que registrarse en cada visita para acceder a las áreas y servicios reservados exclusivamente a ellos.
+        
+        Para utilizar el portal, no resulta necesario que el usuario permita la instalación de las cookies enviadas por Educ.ar, sin perjuicio de que en tal caso será necesario que el usuario se registre como usuario de cada uno de los servicios cuya prestación requiera el previo registro.
+        
+        Las redes publicitarias que insertan avisos y los distintos sitios vinculados por medio de enlaces o referencias que figuran en las distintas páginas del portal pueden también utilizar sus propias cookies.
+        
+        Educ.ar también recoge las direcciones IP para administrar el sistema y para proporcionar información de manera conjunta y anónima a nuestros anunciantes. Además, Educ.ar incluye las direcciones IP en los encabezados de los mensajes de correo enviados desde su servicio de correo.
+        
+        Educ.ar garantiza el uso exclusivo de dichos datos a los fines de brindar y mejorar las prestaciones del portal. Estos serán resguardos para preservar la seguridad, integridad y confidencialidad de los datos considerados como personales. Educ.ar tratará de evitar su adulteración, pérdida, consulta o tratamiento no autorizado, ya sea por riesgos que provengan de la acción humana o del medio técnico utilizado.
+        
+        Los datos solo podrán ser utilizados a los fines previstos por Educ.ar y nadie tendrá acceso a la información. Educ.ar no comparte esta información con terceros. El usuario podrá acceder a sus datos de carácter personal, rectificarlos, cancelarlos u oponerse a su tratamiento, mediante notificación a info@educ.gov.ar.
+        
+        5. Información acerca de usted
+        En ocasiones específicas, podremos requerirle cierta información personal, como cuando usted solicita algún servicio (tal como las «páginas personales»). La información solicitada podría incluir su nombre, dirección de internet o nombre de usuario, dirección para envío de documentación, tipo de computadora, u otra información, con el fin de brindarle el servicio o el producto que requiera. Dicha información podría ser utilizada para darle a conocer otros servicios o productos. Usted puede elegir no recibir información sobre dichos servicios o productos, haciéndonoslo saber en la pantalla en la que se registre para recibir el servicio o producto que desee.
+        
+        Además de la información anterior, podríamos solicitarle información acerca de sus intereses personales, para que tanto usted como nosotros nos veamos beneficiados con la información en línea, con la diferencia de que usted podrá elegir libre y voluntariamente entre proporcionarnos o no dicha información. Adicionalmente, podemos brindarle la oportunidad de estar registrado en el directorio de alguno de nuestros servicios relacionados con el portal. Estos registros también son opcionales y usted podrá hacer cambios o modificar la información proporcionada cuando así lo desee. El hecho de no suministrar datos personales no implicará una merma en la calidad o cantidad de los servicios correspondientes, a menos que se indique otra cosa. Completando el procedimiento de registro de datos en forma voluntaria, el usuario presta su consentimiento para el tratamiento de sus datos personales por Educ.ar que, mediante estas condiciones, garantiza la confidencialidad y el tratamiento automatizado de estos, de conformidad con la normativa vigente sobre protección de datos.
+        
+        6. Precaución sobre los datos personales
+        La información personal como usuario registrado (los «datos personales») de Educ.ar está protegida con una clave de tal manera que solo usted puede tener acceso a esta información personal. Usted podrá modificar su información como usuario registrado utilizando su nombre de usuario y su clave de Educ.ar.
+        
+        No revele su contraseña a nadie.
+        
+        Educ.ar no solicitará su clave en ninguna llamada telefónica o mensaje de correo no solicitados. Recuerde cerrar la ventana de su navegador cuando finalice su actividad. Con esta operación, se asegurará de que nadie pueda obtener acceso a su información y correspondencia personal si comparte su computadora con alguien o utiliza una computadora en un lugar público como una biblioteca, una escuela o cibercafé.
+        
+        Ninguna transmisión por internet puede garantizar su seguridad cien por ciento. Por lo tanto, aunque Educ.ar se esfuerce en proteger sus datos personales, Educ.ar no puede asegurar, ni garantizar la seguridad en la transmisión de ninguna información relacionada con ninguno de nuestros servicios en línea y usted corre su propio riesgo. Una vez recibidos los datos, haremos todo lo posible para garantizar su seguridad en nuestros sistemas.
+        
+        7. Revelación de información
+        Nosotros no utilizamos ni revelaremos a terceros información individual respecto de sus visitas a Educ.ar o información que pueda proporcionarnos, tal como su nombre, dirección, dirección de correo electrónico o número telefónico. No obstante, y como se mencionó anteriormente, es práctica de la empresa compartir con empresas vinculadas al portal y las entidades dependientes y/o bajo el control del Ministerio de Educación de la Nación, la información estadística acerca del uso del portal.
+        
+        Educ.ar invierte sus mejores esfuerzos para proteger la identidad y los datos personales de sus usuarios. Educ.ar no venderá, alquilará ni negociará con otras empresas u organizaciones su información personal. Toda la información personal que usted transmite se hace a través de una página de internet segura que protege su información.
+        
+        Educ.ar ha adoptado los niveles de seguridad de protección de los datos personales legalmente requeridos, y ha instalado todos los medios y medidas técnicas a su alcance para evitar la pérdida, mal uso, alteración, acceso no autorizado y robo de los datos personales facilitados a Educ.ar. No obstante ello, el usuario debe ser consciente de que las medidas de seguridad en internet no son inexpugnables.
+        
+        8. Divulgación de los datos personales
+        Educ.ar no entregará a terceros los datos personales de los usuarios, a menos que sea para cumplir una obligación legal y/o por requerimiento o autorización judicial del juez competente.
+        
+        Educ.ar puede difundir sus datos personales en casos especiales cuando pensemos que proporcionar esta información puede servir para identificar, localizar o realizar acciones legales contra personas que pudiesen infringir las condiciones generales de uso de Educ.ar o causar daños o interferencia (intencionadamente o no) sobre los derechos de Educ.ar o activos, los usuarios de Educ.ar o de cualquier otra persona que pudiese resultar perjudicada por dichas actividades. Educ.ar puede difundir u obtener acceso a la información de cuenta cuando, actuando de buena fe, creamos que es necesario por razones legales, administrativas o de otra índole y lo consideremos necesario para mantener, proporcionar y desarrollar nuestros productos y servicios.
+        
+        9. Atención especial a niñas, niños, adolescentes y jóvenes de 18 años o menos
+        Educ.ar ha creado una sección específica para estudiantes y entre los servicios ofrecidos por el portal habrá: cursos virtuales, espacios digitales abiertos de aprendizaje, juegos en línea, sitios de publicación voluntaria y no mediada de contenidos, entre otros.
+        
+        Todos aquellos que deseen participar de estos servicios realizando una acción de valoración, descarga, publicación o asistencia virtual deberán registrarse en el portal tal y como fue explicado anteriormente.
+        
+        No se pedirá autorización de los adultos a cargo para dicha participación o acciones en el portal: ni para el registro, ni para la publicación de contenidos, ni para la inscripción a cursos.
+        
+        Los datos de las personas registradas serán resguardados y utilizados como se expuso en los puntos anteriores.
+        
+        Todas las actividades de los niños, niñas y jóvenes menores de 18 años serán moderadas, supervisadas o guiadas por tutores profesionales especializados, contratados a tales efectos por el portal.
+        
+        No se permitirán comunicaciones privadas entre los usuarios, sino únicamente entre estos y los especialistas: por ejemplo, en el marco de los cursos o talleres virtuales. Todo el resto de los intercambios serán públicos y moderados.
+        
+        Los contenidos podrán ser denunciados por los usuarios y bloqueados por el administrador en caso de que no respeten las condiciones de uso y publicación antes estipuladas.
+        
+        Alentamos de todos modos a los adultos a cargo a participar, asesorar, acompañar y controlar el uso que las niñas, niños y jóvenes hagan de internet.
+        
+        En ningún momento, Educ.ar es responsable de la utilización, indebida o no, del portal por parte de un menor de edad.
+        
+        Ante cualquier consulta al respecto, se podrá comunicar con: info@educ.gov.ar.
+        
+        10. Cambios en la política de privacidad de Educ.ar
+        El titular de los datos personales tiene la facultad de ejercer el derecho de acceso, rectificación y/o supresión conforme a lo establecido en la Ley de Protección de Datos Personales de la República Argentina Nº 25.326. Para mayor información enviar un correo a ley25326@educar.gob.ar.
+        
+        Educ.ar se reserva el derecho a modificar la presente política para adaptarla a novedades legislativas o jurisprudenciales así como a prácticas de la industria, por lo que recomendamos que la consulte periódicamente.
+        
+        En caso de que hubiera cambios en nuestra política de privacidad de Educ.ar, los publicaremos a través de este medio para que siempre esté informado, tal como haremos uso de dicha información y los casos en los que esta podría ser revelada a terceros.
+        
+        CONDICIONES DE USO DE EDUC.AR EN RED
+        1. Declaración de derechos y responsabilidades
+        Esta declaración de derechos y responsabilidades («condiciones») se basa en las «Bases y condiciones» de uso del portal Educ.ar («el portal») y contiene las condiciones de la vinculación con los usuarios y con todos aquellos que interactúan con el portal. Al usar o acceder a enred, la red social de Educ.ar («la red»), se manifiesta que se aceptan los principios, bases y condiciones de uso del portal, y sus modificaciones y/o actualizaciones.
+        
+        2. Privacidad
+        La protección de la privacidad del usuario es muy importante para nosotros. Hemos diseñado políticas de uso de datos, que se encuentran en el portal. Recomendamos su lectura.
+        
+        3. Compartir el contenido y la información
+        Entendemos que el usuario es el propietario de todo el contenido, datos e información que publica en la red, y que puede controlar y disponer de ellos libremente sin que afecte derecho de terceros.
+        
+        Para el contenido protegido por derechos de propiedad intelectual, entre otros, como fotografías y videos, usted nos concede el permiso a utilizarlo, trasmitirlo, licenciarlo, reproducirlo, en todos los formatos. Este permiso se otorga sin límite temporal ni territorial alguno.
+        
+        Cuando se procede a eliminar un contenido, este se borra de forma similar a cuando se vacía la papelera de reciclaje de su dispositivo de uso. No obstante, se advierte que es posible que el contenido eliminado permanezca en copias de seguridad durante un plazo de tiempo razonable (si bien no estará disponible para terceros). Cuando se utiliza una aplicación, esta puede solicitarle al usuario el permiso de acceder a su contenido e información y al contenido y la información que otros han compartido con ese usuario. Exigimos que las aplicaciones respeten la privacidad y demás condiciones acá expuestas. Cuando se publica contenido o información con la configuración «Público», significa que se permite que todos, incluidas las personas que son ajenas a la red, accedan y usen dicha información y la asocien a una cuenta del titular (es decir, a un nombre, foto y perfil). Valoramos los comentarios o sugerencias acerca de la red, sin que ello implique obligación o derecho alguno de parte de la red.
+        
+        4. Seguridad
+        Teniendo en cuenta que Educ.ar pretende que el sitio sea seguro, todos los usuarios de la red deberán obligarse a:
+        
+        no publicar comunicaciones comerciales;
+        no enviar correo no deseado (spam);
+        no recopilar información o contenido de otros usuarios, ni acceder de otro modo a la red, utilizando medios automáticos (como harvestingbots, robots, arañas o scrapers);
+        no realizar acciones de marketing en ninguna de sus formas o métodos;
+        no ingresar, ni expandir virus, ni códigos malintencionados de ningún tipo;
+        no solicitar ninguna información de inicio de sesión ni acceder a una cuenta perteneciente a otro usuario;
+        no molestar, intimidar ni acosar a ningún usuario;
+        no publicar contenido que contenga lenguaje ofensivo, resulte intimidatorio o pornográfico, que incite a la violencia o que contenga desnudos o violencia gráfica o injustificada;
+        no desarrollar ni hacer uso de aplicaciones de terceros que contengan, publiciten o promocionen de cualquier otro modo contenido relacionado con el consumo de alcohol o encuentros, ni anuncios de ningún tipo;
+        no utilizar la red para actos ilícitos, engañosos, malintencionados, discriminatorios o que generen violencia;
+        no realizar ninguna acción que pudiera inhabilitar, sobrecargar o afectar el funcionamiento correcto de la red, como, por ejemplo, un ataque de denegación de servicio o la alteración de la presentación de páginas u otra funcionalidad de la red.
+        Toda acción descripta precedentemente a único y exclusivo criterio de la red será causal de retiro del material objetado sin que ello implique derecho u obligación alguna por parte de la red.
+        
+        Seguridad de la cuenta y registro
+        Teniendo en cuenta que los usuarios de la red proporcionan sus nombres e información reales, el usuario de la red acepta y se obliga en relación con el registro y mantenimiento de la seguridad de su cuenta a:
+        
+        no proporcionar información personal falsa en la red, ni crear una cuenta para otras personas sin su autorización;
+        no crear más de una cuenta personal;
+        no permitir la utilización/registro en la red a menores de 12 años;
+        mantener la información de contacto exacta y actualizada;
+        no compartir la contraseña ni realizar nada que pueda poner en peligro la seguridad de la cuenta propia o de terceros;
+        no utilizar identidades falsas, dobles o de cualquier tipo que tienda a la confusión o error.
+        La red se reserva el derecho de eliminar, si lo considera oportuno, todo nombre o perfil de usuario (por ejemplo, si el propietario de una marca comercial o el de alguna personalidad pública se queja por un nombre de usuario que no está relacionado estrechamente con el nombre real del usuario).
+        
+        Respetamos y nos preocupamos de los derechos de otras personas. Por ello, todo usuario de la red se obliga a no publicar contenido ni realizar ninguna acción en la red que infrinja o viole los derechos de otros o que viole la legislación de algún modo.
+        
+        Educ.ar podrá retirar cualquier contenido, dato, perfil o información que se publique en la red si consideramos que infringe esta declaración, o sus políticas, o cualquier normativa vigente.
+        
+        Si un contenido fuera retirado debido a una infracción de los derechos de autor de otra persona y el usuario considerara que se trata de un error, podrá hacerlo saber Educ.ar para que reconsidere la eliminación. Su decisión final será inapelable.
+        
+        Si se infringen repetidamente los derechos de propiedad intelectual de otra persona, Educ.ar podrá desactivar la cuenta.
+        
+        Está prohibida la recopilación de información o datos sobre los usuarios.
+        
+        No está permitida la publicación de documentos de identificación, datos o información financiera de nadie en la red.
+        
+        5. Dispositivos móviles y de otros tipos
+        La red ofrece todos sus servicios de forma gratuita, pero ello no implica que se aplicarán las tarifas normales de su operadora de celular si se utilizan dichos servicios.
+        
+        6. Disposiciones especiales aplicables a los plug-ins sociales
+        Si usted incluye en su sitio web nuestros plug-ins sociales, como los botones Compartir o Me gusta, se deberán tener en cuenta los siguientes términos adicionales:
+        
+        Se otorga permiso para utilizar los plug-ins sociales de la red para que los usuarios puedan publicar enlaces o contenido de su sitio web en la red.
+        Se otorga el permiso para utilizar dichos enlaces y el contenido en la red, y para permitir que otros los utilicen.
+        Educ.ar dispone de sistemas que intentan detectar y filtrar determinadas actividades, pero no se responsabiliza de fraudes, problemas tecnológicos ni de cualquier posible actividad relativa a los clics que no sea válida y que pueda afectar al coste de los anuncios en circulación.
+        Educ.ar se reserva el derecho inapelable de rechazar o retirar cualquier anuncio, comunicación, información, datos o contenidos por cualquier motivo que no esté vinculado con el objeto de la red, ello a criterio de la red sin que implique ningún derecho para con los usuarios.
+        
+        7. Disposiciones especiales aplicables al software
+        Si se descarga un software, como un producto de software independiente o un plug-in para el navegador, se acepta que, periódicamente, el software puede descargar mejoras, actualizaciones y funciones adicionales a fin de mejorarlo y desarrollarlo.
+        
+        No está permitido modificar nuestro código fuente ni llevar a cabo con él trabajos derivados, como descompilar o intentar de algún otro modo extraer dicho código fuente, excepto en los casos permitidos expresamente por una licencia de código abierto, lo que se indicará de forma expresa.
+        
+        8. Enmiendas
+        Si se realizaran cambios en las políticas a las que hacen referencia estas condiciones, podremos indicarlo en el portal (http://educ.ar).
+        
+        9. Terminación
+        Si por cualquier acción acá descripta se llega a infringir la letra o el espíritu de estas condiciones, ley o de algún modo se provocare por la acción un riesgo a la red u otras personas, Educ.ar se reserva el derecho de dejar de proporcionar todo o parte del servicio de la red. Todo usuario puede eliminar su cuenta o desactivar su aplicación en cualquier momento.
+        
+        Cualquier divergencia o contienda en la interpretación, aplicación o ejecución de las distintas condiciones de las redes de Educ.ar, su resolución o la determinación de daños y perjuicios que se deriven, será sometida a los Tribunales Nacionales Federales en lo Civil y Comercial de la Ciudad Autónoma de Buenos Aires.
+        
+        Normas comunitarias de educ.ar enred
+        Debe tenerse en cuenta y queda irrevocablemente aceptado que Educ.ar tiene el derecho y la facultad para revisar y supervisar, en forma aleatoria, el cumplimiento de las condiciones de uso en todos los espacios, comunidades, grupos, etc., sin distinción de que sean cerrados, privados o abiertos.
+        
+        La red es la plataforma de comunicación interactiva, comunitaria y social del portal, por la cual las personas tienen la oportunidad de compartir sus historias, información, experiencias, estudios, intereses, opiniones, en los distintos aspectos pedagógicos o educativos, así como también contenidos, materias de estudio, temas, debates, etc., conectarse con otras personas y difundir contenido sobre esta base y objeto. Las conversaciones que tienen lugar en la red, así como las opiniones que expresan sus usuarios, son un reflejo de la diversidad de las personas que hacen uso de la red.
+        
+        La red protege y respeta la diversidad de expresión, opiniones y contenidos que cumplen las normas descritas en estas bases y condiciones como también las del portal.
+        
+        Por ello, solicitamos que se lean todas las pautas, condiciones y normas de uso, que ayudarán a saber qué tipo de contenido es aceptable, permitido y cuál puede ser denunciado y eliminado.
+        
+        1. Violencia y amenazas
+        La seguridad es un tema de interés primordial para la red. En los casos en que consideremos que existe algún tipo de riesgo eventual, daños físicos o una amenaza directa a la seguridad pública o privada —ya sea sobre bienes materiales o personas físicas—, eliminaremos el contenido y eventualmente se efectuará la correspondiente denuncia. Está absolutamente prohibido todo tipo de amenazas a personas u organizaciones y las acciones destinadas a la planificación, promoción o celebración de acciones que pudieran provocar violaciones a las normas vigentes.
+        
+        2. Conductas autodestructivas
+        La red eliminará el contenido que anime a hacerse daño a uno o a terceras personas o que promueva los trastornos alimenticios o el abuso de sustancias estupefacientes.
+        
+        3. Acoso
+        No será tolerado el acoso. Permitimos que los usuarios de la red se expresen libremente sobre temas de interés público, pero cuando recibimos avisos de conductas de tipo acosadoras dirigidas a personas físicas, tomaremos las medidas oportunas. Consideramos que el enviar múltiples solicitudes de amistad o mensajes a personas que no desean recibirlos es una forma de acoso.
+        
+        4. Lenguaje que incita al odio
+        No se permite el lenguaje que incita al odio. No se permitirá que ni individuos ni grupos de personas ataquen a nadie por su raza, grupo étnico, nacionalidad, religión, sexo, orientación sexual, discapacidad o enfermedad.
+        
+        5. Desnudos y pornografía
+        La red prohíbe terminantemente que se comparta contenido pornográfico o desnudos de cualquier persona y edad con fines evidentemente sexuales, y cualquier otro contenido de índole sexual que no sea educativo. La violación de la presente disposición implicará la realización de la denuncia correspondiente.
+        
+        6. Identidad y privacidad
+        Los usuarios de la red usan su nombre e identidad reales para conectar entre sí. Solicitamos que se abstengan de publicar la información, datos o imágenes de otras personas sin su correspondiente permiso. Hacerse pasar por otro, crear un perfil o identidad falsa para una organización o persona o tener más de una cuenta son acciones que van en contra del espíritu y los objetivos de la red.
+        
+        7. Propiedad intelectual
+        Antes de compartir contenido en la red, los usuarios deberán asegurarse de tener con el correspondiente derecho a hacerlo. Respetamos los derechos de autor, las marcas comerciales y cualquier otro derecho de propiedad intelectual.
+        
+        8. Cómo denunciar
+        En el caso de observar en la red algo que infringe o que sea considerado que infringe alguna de las condiciones acá descritas o cualquiera otra circunstancia que implique algún tipo de peligro, riesgo, violación o afectación de derechos de cualquier tipo, solicitamos que sea comunicado a la siguiente dirección: info@educ.gov.ar. La denuncia no implica el correspondiente retiro.
+        
+        Servicios de Terceros
+        Portal educ.ar utiliza los Servicios API de YouTube para reproducir videos, y usted acepta los Términos de Servicio de Youtube.

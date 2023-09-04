@@ -1,0 +1,65 @@
+/*----------------------------------------------------------------------------*/
+                            /*formulario*/
+/*----------------------------------------------------------------------------*/
+.body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(38, 38, 38);
+    }
+    .formulario registro{
+        background-color: rgb(42, 42, 42);
+        color: #c8c7c7;
+        font-family: "Roboto";
+        margin: 0; 
+        padding: 0;
+        /*align-items: center;
+        justify-self: center;*/
+        height: 100vh;
+        text-align:center;
+      }
+      
+      #resultado{
+        background-color: #5e5a5a;
+        padding: 20px;
+        border-radius: 5px;
+        width: 300px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        place-items: center;
+        margin-top: 8px;
+      }
+      
+      .titulo{
+        color: #cccccc;
+      }
+      
+      .ingrese{
+        display: block;
+        margin-bottom: 5px;
+      }
+      
+      #resultado h3 {
+        margin-top: 0;
+      }
+      
+      #resultado p{
+        margin: 3px 0;
+      }
+      
+      button:hover{
+        background-color: aqua;
+      }
+      
+      button{
+        padding: 10px 20px;
+        border: none;
+        background-color: #45bae1;
+        font-weight: bold;
+        cursor: pointer;
+      }
+      
+      h3{
+        text-decoration: underline;
+      }

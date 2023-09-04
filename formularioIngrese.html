@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <link rel="stylesheet" href="estilos/css/styleRegistro.css">
+    <title>Registrar - De la tiza al mouse</title>
+</head>
+
+<body>
+    <section class="formulario registro">
+        <h2 class="formulario titulo">Ingrese sus datos</h2>
+       <!-- <form action="suscriptos.php" method="post">-->
+
+            <label class="ingrese" for="nombres" id="nombres"> Ingrese sus nombres</label>
+            <input class="datos" type="text" name="nombres" id="nombres" placeholder="Ingrese sus nombres"></li>
+
+            <label class="ingrese" for="apellidos" id="nApellidos">Ingrese sus apellidos</label>
+            <input class="datos" type="text" name="apellidos" id="apellidos" placeholder="Ingrese sus apellidos">           
+
+            <label class="ingrese" for="fechaNacimiento" id="fecha_nacimiento">Ingrese su fecha de nacimiento</label>
+            <input class="datos" type="date" name="fechaNacimiento" id="fecha_nacimiento">
+
+            <label class="ingrese" for="direccion" id="direccion">Ingrese su dirección</label>
+            <input class="datos" type="text" name="direccion" id="direccion" placeholder="Ingrese su dirección">
+
+            <label class="ingrese" for="localidad" id="localidad">Ingrese su localidad</label>
+            <input class="datos" type="text" name="localidad" id="localidad" placeholder="Ingrese la localidad">
+
+            <label class="ingrese" for="" id="nombreUsuario">Ingrese su nombre de usuario</label>
+            <input class="datos" type="text" name="nombreUsuario" id="nombreUsuario" placeholder="Ingrese un nombre de usuario">
+
+            <label class="ingrese" for="" id="contraseña">Ingrese una contraseña</label>
+            <input class="datos" type="password" name="contraseña" id="contraseña" placeholder="Ingrese una contraseña">
+
+            <label class="ingrese" for="" id="Ncontraseña">Vuelva a ingresar la contraseña</label>
+            <input class="datos" type="password" name="Ncontraseña" id="contraseña" placeholder="Ingrese nuevamente la contraseña">
+
+            <p class="condiciones">
+                <input class="terminos" type="checkbox" name="" id="">
+                <a href="">Acepto los términos y condiciones</a>
+            </p>
+
+            <p class="aceptar">
+                Si los datos son correctos, haga clic en Aceptar
+            </p>
+
+            <button onclick="crearRegistro()">Registrar</button>
+    </section>
+    <script src="script.js"></script>
+</body>
+
+</html>

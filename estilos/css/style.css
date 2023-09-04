@@ -1,27 +1,26 @@
 /*-----------------------------------------------------------------------------------------*/
                               /*index.html*/
 /*-----------------------------------------------------------------------------------------*/
-body {
-    background: linear-gradient(45deg, #FFA500, #FF6347);
-}
-index {
+.index body {
+    background: orange; 
     display: flex;
     margin: auto;
 }
-.contenedor{
-    /*background-color: #e3f2fd;*/
+
+.index div{
+    background-color: #e3f2fd;
     align-items: center;
     display: block;
     height: 10%;   
     text-decoration: none;
 }
-.logo {
+.index logo {
     margin-left: 5%;
     margin-right: 5%;
     width: 120px;
     height: 80px;
 }
-.label{
+.index label{
     margin-left: 4%;
     margin-right: 8%;
     width: 5%;
@@ -49,7 +48,7 @@ index {
     margin-left: 5%;
     margin-right: 5%; 
 }
-.enlace {
+.index navBar enlace {
     margin-left: 4%;
     margin-right: 8%;
     width: 5%;
